@@ -1,16 +1,19 @@
-# kanggo_flutter_developer_dandy
+Coding Test Kanggo Flutter Developer a/n Dandy
 
-A new Flutter project.
+Cara menjalankan Aplikasi : 
+- Buka Text Editor anda (saya menggunakan Visual Studio Code)
 
-## Getting Started
+- Sambungkan Terlebih dahulu text editor anda dengan emulator atau device anda 
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+![image](https://user-images.githubusercontent.com/90615874/230129097-123c5e15-3fa9-4ef2-b470-5eb03af8793f.png)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Lalu klik tombol run
+
+
+![image](https://user-images.githubusercontent.com/90615874/230128767-2c7791e5-a5ed-48ac-a081-bc2f19ab6f86.png)
+
+
+Terimakasih
+
